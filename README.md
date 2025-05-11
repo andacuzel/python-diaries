@@ -2,7 +2,7 @@
 
 # Python Diaries
 
-Bu repo, 7 haftalık bir Python başlangıcını içeriyor. Hikayenin başlangıcında da Linux'u Utku sayesinde keşfetmem var. Eski bir laptop'um varsa içine bir Ubuntu kurmamı tavsiye etti, ben de öyle yaptım. Ortaya da bu yolculuğun ilk adımları çıktı. Ubuntu'yu kurunca neler yapabileceğimi hayal etmeye başladım. Hayatımda ilk kez de kodlarla haşır neşir oldum. 
+Bu repo, 7 haftalık bir Python başlangıcını içeriyor. Hikayenin başlangıcında da Linux'u @utkutekalmaz sayesinde keşfetmem var. Eski bir laptop'um varsa içine bir Ubuntu kurmamı tavsiye etti, ben de öyle yaptım. Ortaya da bu yolculuğun ilk adımları çıktı. Ubuntu'yu kurunca neler yapabileceğimi hayal etmeye başladım. Hayatımda ilk kez de kodlarla haşır neşir oldum. 
 
 İçerde göreceğiniz her şey, otuzlu yaşlarında bir adamın attığı bebek adımları. Hafta 1 için öğrenmeyi denediğim şeyler şunlar:
 
